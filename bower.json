@@ -1,0 +1,17 @@
+{
+    "name": "imfelldwpica-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Igino Marini"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/imfelldwpica-bower.git"
+    },
+    "description": "IM Fell DW Pica font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
